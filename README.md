@@ -24,7 +24,9 @@ Hello! I'm a 16-year-old full-stack developer on a journey of continuous learnin
 </div>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,ts,py,github,vercel,nodejs,mysql,figma,ps,pr)](https://skillicons.dev)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,cs,ts,py,github,vercel,nodejs,mysql,figma,ps,pr&theme=dark&titles=true&perline=13" alt="Tech Stack"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
