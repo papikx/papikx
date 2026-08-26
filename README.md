@@ -3,7 +3,7 @@
 
 From Ukraine 🇺🇦
 
-Swiss Badminton profile : https://sb.tournamentsoftware.com/player-profile/27b67eaa-865e-4912-bc03-6df0c90637e5
+Swiss Badminton profile : [click here](https://sb.tournamentsoftware.com/player-profile/27B67EAA-865E-4912-BC03-6DF0C90637E5)
 
 ---
 
