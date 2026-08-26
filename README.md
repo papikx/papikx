@@ -1,7 +1,4 @@
-# 💫 Hi 👋, I'm papik
-**A passionate Full-stack developer from Ukraine**
-
-Email Me 👉 📧 **belokonenkogerman@gmail.com** or DM me in Telegram 👉 @norpi For Collaboration/Project or Anything Else. 😊
+# Hi, I'm papik
 
 <!-- ============================= -->
 <!--             ABOUT ME          -->
